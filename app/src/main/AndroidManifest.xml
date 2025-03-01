@@ -4,6 +4,7 @@
 
     <queries>
         <package android:name="com.tosan.techpayment.main" />
+        <package android:name="com.tech.pay" />
     </queries>
     <application
         android:allowBackup="true"
